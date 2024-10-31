@@ -7,11 +7,16 @@ This project explores and clusters PBMCs based on flow cytometry data using mach
 ## Installation
 
 To use this project, first clone the repository to your device:
+'''
 git init
 git clone https://github.com/vanguardfox/ADS599
+'''
 
 TBD: After cloning, navigate to the project folder and install the required packages by running:
+'''
+conda activate # Optional if using Anaconda to manage environment
 pip install -r requirements.txt
+'''
 
 ## Running the Project
 
