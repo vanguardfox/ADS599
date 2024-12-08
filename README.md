@@ -53,3 +53,21 @@ Current challenges include whether clustering algorithms will result in biochemi
 
 * License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
+<img width="2017" alt="image" src="https://github.com/user-attachments/assets/f2baa27c-96b1-4aaa-91ed-1073e651704f">
+
+# References
+1. Beckman Coulter. (2022). Automatic gating - Beckman Coulter. Flow Cytometry. https://www.beckman.com/flow-cytometry/software/cytobank-premium/learning-center/automatic-gating 
+Brestoff, J. R., & Frater, J. L. (2022). Contemporary challenges in clinical flow cytometry: Small samples, big data, little time. Journal of Applied Laboratory Medicine, 7(22), 931-944. https://doi.org/10.1093/jalm/jfab176
+2. Cossarizza, A., Chang, H. D., Radbruch, A., Acs, A., Adam, D., Adam-Klages, S., Agace, W. W., Aghaeepour, N., Akdis, M., Allez, M., Almeida, L. N., Alvisi, G., Anderson, G., Andrä, I., Annunziato, F., Anselmo, A., Bacher, P., Baldari, C. T., Bari, S., Barnaba, V., … Zychlinsky, A. (2019). Guidelines for the use of flow cytometry and cell sorting in immunological studies (second edition). European journal of immunology, 49(10), 1457–1973. https://doi.org/10.1002/eji.201970107 
+3. FlowRepository. (2020). FlowRepository ID FR-FCM-Z32U. Retrieved from http://flowrepository.org/experiments/3166/download_ziped_files
+4. Hennig, H., Rees, P., Blasi, T., Kamentsky, L., Hung, J., Dao, D., Carpenter, A. E., & Filby, A. (2016). An open-source solution for advanced imaging flow cytometry data analysis using machine learning. Methods, 112(2017), 201–210. http://dx.doi.org/10.1016/j.ymeth.2016.08.018
+5. Hu, Z., Bhattacharya, S., & Butte, A. J. (2022). Application of machine learning for cytometry data. Frontiers in immunology, 12, 787574. https://doi.org/10.3389/fimmu.2021.787574 
+6. Lee, J. A., Spidlen, J., Boyce, K., Cai, J., Crosbie, N., Dalphin, M., Furlong, J., Gasparetto, M., Goldberg, M., Goralczyk, E. M., Hyun, B., Jansen, K., Kollmann, T., Kong, M., Leif, R., McWeeney, S., Moloshok, T. D., Moore, W., Nolan, G., Nolan, J., … Brinkman, R. R. (2008). MIFlowCyt: the minimum information about a Flow Cytometry Experiment. Cytometry. Part A: the journal of the International Society for Analytical Cytology, 73(10), 926–930. https://doi.org/10.1002/cyto.a.20623 
+7. Maecker, H. T., McCoy, J. P., & Nussenblatt, R. (2012). Standardizing immunophenotyping for the Human Immunology Project. Nature Reviews Immunology, 12(3), 191–200. https://doi.org/10.1038/nri3158 
+8. Mair, F., & Leichti, T. (2020). Comprehensive Phenotyping of Human Dendritic Cells and Monocytes. Journal of Quantitative Cell Science, 99(3), 231–242. https://doi.org/10.1002/cyto.a.24269
+9. Monaco, G., Chen, H., Poidinger, M., Chen, J., Magalhaes, J., & Larbi, A. (2016). FlowAI: Automatic and interactive anomaly discerning tools for flow cytometry data. Bioinformatics, 32(16), 2473–2480. https://doi.org/10.1093/bioinformatics/btw191
+10. Ng, D. P., Simonson, P. D., Tarnok, A., Lucas, F., Kern, W., Rolf, N., Bogdanoski, G., Green, C., Brinkman, R. R., & Czechowska, K. (2024). Recommendations for using artificial intelligence in clinical flow cytometry. Cytometry part b: Clinical cytometry, 106(4), 228–238. https://doi.org/10.1002/cyto.b.22166 
+11. Policar, P. (2023). How t-SNE works. Read the Docs. https://opentsne.readthedocs.io/en/latest/tsne_algorithm.html
+Spidlen J, Breuer K, Rosenberg C, Kotecha N and Brinkman RR. (2012). FlowRepository - A Resource of Annotated Flow Cytometry Datasets Associated with Peer-reviewed Publications. Cytometry A. 81(9), 727-31. https://doi.org/10.1002/cyto.a.22106 
+
+
