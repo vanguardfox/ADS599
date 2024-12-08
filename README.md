@@ -53,7 +53,6 @@ Current challenges include whether clustering algorithms will result in biochemi
 
 * License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
-<img width="2017" alt="image" src="https://github.com/user-attachments/assets/f2baa27c-96b1-4aaa-91ed-1073e651704f">
 
 # References
 1. Beckman Coulter. (2022). Automatic gating - Beckman Coulter. Flow Cytometry. https://www.beckman.com/flow-cytometry/software/cytobank-premium/learning-center/automatic-gating 
