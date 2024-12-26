@@ -1,4 +1,4 @@
-# Project Title: Peripheral Blood Mononuclear Cell (PBMC) Population Clustering
+# Project Title: Artificial Intelligence-Driven Automation of Flow Cytometry Gating
 
 This project explores and clusters PBMCs based on flow cytometry data using machine learning techniques.
 
